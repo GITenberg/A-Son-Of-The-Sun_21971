@@ -1,0 +1,34 @@
+_repo: A-Son-Of-The-Sun_21971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2007-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21971'
+  lccn: '12012136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories, American'
+- !lcsh 'Sea stories, American'
+- !lcsh 'Autobiographical fiction, American'
+- !lcsh 'Americans -- Oceania -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Oceania -- Fiction'
+title: A Son Of The Sun
+url: http://www.gutenberg.org/ebooks/21971
